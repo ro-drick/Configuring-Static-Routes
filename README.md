@@ -30,6 +30,7 @@ This lab focuses on configuring static routes on Cisco routers to enable end-to-
   - **R3** (G0/0: `192.168.13.2/24`)
 
 - **Subnet 4 (192.168.13.1/.24**
+<img src="https://github.com/ro-drick/Configuring-Static-Routes/blob/main/configuring-static-routes.PNG"/>
 ## Solution
 
 ### 1. Device Configuration
