@@ -150,7 +150,8 @@ Type the following command to test the connection:
 ping 192.168.1.1
 ```
 Again, if the routing is correct, the ping should succeed.
-<p><a href="">Here</a> is the unsolved practice lab</p>
+<p><a href="https://github.com/ro-drick/Configuring-Static-Routes/blob/main/Configuring%20Static%20Routes%20Practice%20Questions.pkt">Here</a> is the unsolved practice lab file</p>
+<p><a href="">Here</a> is the solved practice lab file</p>
 ## Conclusion
 
 In this lab, we successfully demonstrated how to configure static routes on Cisco routers to enable communication between devices located on different subnets. By carefully assigning IP addresses to each device and setting up static routes on routers R1, R2, and R3, we ensured that PC1 and PC2 could communicate across multiple networks. This lab reinforced key networking concepts such as IP addressing, subnetting, and static routing, all of which are essential for managing inter-network communications in real-world network setups. Through testing, we verified that the static routes functioned as expected, allowing for successful end-to-end connectivity.
